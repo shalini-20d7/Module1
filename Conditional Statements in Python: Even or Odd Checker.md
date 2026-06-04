@@ -21,9 +21,8 @@ else:
     print("Odd")
 ```
 ## Output
-```
 <img width="1507" height="645" alt="image" src="https://github.com/user-attachments/assets/94a2938a-2ce6-4fd6-9961-f0220d8fe413" />
-```
+
 
 ## Result
 The program successfully checks whether the given number is Even or Odd using the if...else statement.
