@@ -28,9 +28,9 @@ print("d:", d)
 ```
 
 ## Output
-```
+
 <img width="1890" height="708" alt="image" src="https://github.com/user-attachments/assets/c21c5db3-7ac3-4c01-bcdf-90f0d2e11110" />
-```
+
 
 ## Result
 The program successfully evaluates and prints the results of the given boolean and arithmetic expressions involving True and False.
